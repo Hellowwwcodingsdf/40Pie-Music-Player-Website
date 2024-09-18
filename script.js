@@ -80,6 +80,11 @@ let songs = [
     coverPath: "covers/13.jpg",
   },
   {
+    songName: "Not Like us",
+    filePath: "songs/notlikeus.mp3",
+    coverPath: "covers/notlikeus.png",
+  },
+  {
     songName: "Low",
     filePath: "songs/14.mp3",
     coverPath: "covers/14.jpg",
